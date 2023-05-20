@@ -1,5 +1,5 @@
 module.exports = {
-    'MONGODB_URI': 'mongodb+srv://userone:<password>@cluster0.trtymki.mongodb.net/SideCar',
+    'MONGODB_URI': 'mongodb+srv://userone:Automatic1@cluster0.trtymki.mongodb.net/SideCar',
 
     'PORT': 6000,
     'NODE_ENV': 'local',
